@@ -1,4 +1,4 @@
-Projeto Base React
+WaTest App Web
 ==================
 
 Utilize o VSCode, já está configurado com sugestão de extensões.

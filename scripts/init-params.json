@@ -1,0 +1,11 @@
+{
+  "project": "WaTest App Web",
+  "repository": "https://github.com/LuisFilipePedroso/WaTest-FrontEnd.git",
+  "endpointDev": "http://localhost:3001",
+  "endpointProd": "",
+  "dockerImage": "waproject/wa-test-app-web",
+  "dockerCredentials": "",
+  "sentryDsn": "",
+  "confirmed": true,
+  "slug": "wa-test-app-web"
+}
