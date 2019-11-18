@@ -1,7 +1,7 @@
 {
   "project": "WaTest App Web",
   "repository": "https://github.com/LuisFilipePedroso/WaTest-FrontEnd.git",
-  "endpointDev": "http://localhost:3001",
+  "endpointDev": "http://localhost:3000",
   "endpointProd": "",
   "dockerImage": "waproject/wa-test-app-web",
   "dockerCredentials": "",
